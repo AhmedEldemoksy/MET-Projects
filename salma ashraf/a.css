@@ -1,0 +1,79 @@
+header{
+    background-image: url("downloud(1).jpg");
+}
+.hed{
+    height: 200px;
+}
+h1{
+    font-size: 50px;
+    padding: 0px;
+    margin: 0px;
+    font-style: italic;
+    color: rgb(65, 70, 65);
+}
+#bm{
+    color: rgb(44, 53, 53);
+    font-style: italic;
+    font-size: 40px;
+    position: absolute;
+    top: 100px;
+    left: 600px;
+    
+}
+#left{
+    position: absolute;
+    right: 7px;
+    top: 66px;
+}
+.right{
+    height: 400px;
+    padding-top: 20px;
+    font-size: larger;
+    background-color: whitesmoke;
+    padding-left: 30px;
+}
+a{
+    color: rgb(136, 133, 133);
+}
+.text{
+    width: 500px;
+    position: absolute;
+    top: 350px;
+    right: 450px;
+    left: 400px;
+    font-size: larger;
+    color: rgb(136, 133, 133);
+    
+}
+h2{
+ color:    rgb(114, 114, 114);
+padding-top: 0px;
+position: absolute;
+top: 280px ;
+left: 280px;
+}
+#img{
+    position: absolute;
+    top: 340px;
+    left: 240px;
+}
+#img2{
+    position: absolute;
+    top: 330px;
+    right: 100px;
+}
+#img3{
+    position: absolute;
+    top: 550px;
+    right: 100px;
+}
+footer{
+    padding-top: 7px;
+    position: absolute;
+    right: 200px;
+    padding-bottom: 10px; 
+    margin: 10px;
+    font-size: larger;
+}
+@media screen and (max-width: 1024px )
+
