@@ -1,0 +1,257 @@
+/* Glooobal*/
+*
+{
+	padding: 0px;
+	margin: 0px;
+}
+body
+{
+	font-family: Arial,Helvetica,sans-serf;
+	font-size: 15px;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0;
+}
+.container
+{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+ul
+{
+	margin: 0;
+	padding:0; 
+	
+}
+.high
+{
+	color: #FC3D15;
+}
+.btn{
+	height:38px;
+	background:#FC3D15;
+	color: #fff; 
+	border:0px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+}
+
+
+/**************************************************/
+
+header
+{
+	background-color: #31424A;
+	color: white;
+	padding: 30px;
+	min-height: 7px;	
+	border-bottom: 3px solid #FC3D15;
+}
+
+
+.lheader
+{
+	float: left;
+	
+}
+.lheader span
+{
+	color: #FC3D15;
+}
+.rheader
+{
+	float: right;
+	margin-top: 10px;
+}
+.rheader ul
+{
+	text-decoration: none;
+}
+.rheader ul li
+{	
+	float: left;
+	display: inline;
+	font-family: Arial;
+	text-transform: uppercase;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+
+/**************************************************/
+ #show
+ {
+ 	min-height: 400px;
+ 	background:url('../img/showcase.jpg')no-repeat 0 -400px;
+ 	text-align:center;
+ 	color: #fff;
+
+ }
+ #show h1
+ {
+ 	margin-top: 100px;
+ 	font-size: 55px;
+ 	margin-bottom: 10px;
+
+
+ }
+ #show p{
+ 	font-size: 20px;
+ }
+ /*************************************************************/
+
+ #newsletter
+ {
+ 	color: #fff;
+ 	background: #31424A;
+ 	padding:30px;
+ }
+ #newsletter h1
+ {
+ 	float: left;
+ }
+#newsletter form
+ {
+ 	float: right;
+ }
+ #newsletter input[type="email"]
+ {
+ 	padding: 4px;
+ 	height: 25px;
+ 	width:250px;
+ }
+
+/*******************************************/
+
+#boxes
+{
+	margin-top: 20px;
+	
+}
+
+#boxes .box
+{
+	float: left;
+	width: 30%;
+	padding: 10px;
+	text-align:center;
+}
+.box img 
+{
+	width: 90px;
+}
+
+/***************************************************/
+footer
+{
+	padding: 20px;
+	text-align:center;
+	margin-top:20px;
+	color: #fff;
+	background-color: #FC3D15;
+}
+
+/**************************************/
+.aboutr{ 
+	margin-top: 10px;
+	width: 60%;
+	float: left;
+	padding: 10px;
+
+}
+.aboutr h3
+{
+	padding: 5px;
+} 
+
+.aboutr p {
+	padding: 10px;
+
+}
+
+.aboutl
+{
+	margin-top: 20px;
+	width: 30%;
+	float: right;
+	background-color: #31424A;
+	color: #fff
+}
+.aboutl h3
+{
+	padding-top:20px;
+	padding-left: 20px;
+	padding-bottom: 5px:
+
+} 
+
+.aboutl  p {
+	padding: 20px; 
+}
+/*************************************************/
+.sl
+{
+	padding: 10px;
+
+}
+.sl h3
+{
+	padding: 10px;
+}
+
+.sl .date
+{
+	width: 60%;
+	background: #E6E6E6;
+	margin:10px;
+}
+.sl .date p {
+	padding: 10px;
+
+}
+
+.sl .date h3
+{
+	padding: 10px;
+
+}
+
+.sr 
+{	
+	float: right;
+	mar
+}
+.sr form
+{	
+	background-color: #31424A;
+	padding: 10px;
+}
+.sr input 
+{
+	padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
