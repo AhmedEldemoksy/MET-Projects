@@ -1,0 +1,179 @@
+    body {
+        font: 15px/1.5 Arial, Helvetica, sans-serif;
+        padding: 0;
+        margin: 0;
+        background-color: #e4e2f1;
+    }
+    /* Global */
+    
+    .container {
+        width: 70%;
+        margin: auto;
+        overflow: hidden;
+    }
+    /*footer*/
+    
+    footer {
+        background-color: white;
+        text-align: center;
+        font-size: 20px;
+    }
+    /*header*/
+    
+    header {
+        background-color: #494e9e;
+        color: white;
+        height: 80px;
+        text-align: center;
+    }
+    
+    #one1 {
+        float: left;
+    }
+    
+    #one2 {
+        float: right;
+    }
+    
+    #a {
+        color: #aca9a9;
+        font-size: 13px;
+        padding-left: 55px;
+    }
+    
+    #facebook {
+        font-weight: 1000;
+        font-size: 36px;
+    }
+    
+    .Bone {
+        width: 125px;
+        height: 15px;
+        margin: 0px 10px 0px 0px;
+    }
+    
+    .lab {
+        font-size: 12px;
+        padding-top: 25px;
+    }
+    
+    #labb {
+        margin-right: 60px;
+    }
+    
+    #labbb {
+        margin-right: 130px;
+    }
+    
+    #hbutt {
+        color: white;
+        background-color: #494e9e;
+        font-weight: bold;
+        border-color: #494e9e;
+    }
+    /*section*/
+    
+    section {
+        text-align: right;
+        height: 600px;
+    }
+    
+    #two {
+        float: right;
+    }
+    
+    #twot {
+        width: 400px;
+        text-align: left;
+    }
+    
+    #three {
+        float: left;
+    }
+    
+    #threet {
+        width: 350;
+        text-align: left;
+        padding-top: 10px;
+    }
+    
+    #faceword {
+        color: #1a2f61;
+        font-weight: bold;
+        font-size: 19px;
+    }
+    
+    #creat {
+        font-weight: bold;
+        font-size: 30px;
+        color: #363636;
+        padding: 0;
+        margin: 20px 0 0 0;
+    }
+    
+    #easy {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    
+    .butt {
+        height: 33px;
+        border-radius: 2px;
+        border-color: white;
+        border-width: 1px;
+        margin: 5px;
+        width: 166px;
+        border-radius: 5px;
+    }
+    
+    .butt2 {
+        height: 33px;
+        border-radius: 2px;
+        border-color: white;
+        border-width: 1px;
+        margin: 5px;
+        width: 349px;
+        border-radius: 5px;
+    }
+    
+    #butttt {
+        margin-bottom: 15px;
+    }
+    
+     ::placeholder {
+        font-size: 17px;
+    }
+    
+    .BG {
+        color: #88868f;
+        font-weight: bold;
+        margin-top: 20px;
+    }
+    
+    #by {
+        color: #88868f;
+        font-size: 12px;
+        font-weight: lighter;
+    }
+    
+    #signup {
+        width: 170px;
+        height: 40px;
+        border-radius: 6px;
+        color: white;
+        background-color: #019940;
+        font-size: 15px;
+        font-weight: bold;
+    }
+    
+    .birth {
+        background-color: white;
+        width: 60px;
+        height: 30px;
+        font-size: 12px;
+        margin: 5px -4px 10px 0px;
+    }
+    
+    .gander {
+        margin: 10px 5px 20px 0px;
+    }
