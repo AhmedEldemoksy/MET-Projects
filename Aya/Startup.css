@@ -1,0 +1,60 @@
+*{
+  background-origin: sizing 2px;;
+}
+body{
+background-image: url('starry_sky_clouds_sunset.jpg');
+  padding:0 ;
+  margin: 0;
+  color:#fff;
+  font-family:"Courier New",Courier,Monospace;
+  font-size: 1vw;
+}
+ul{
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+li{
+  float: left; 
+  padding: 0 20px 0 20px;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline;
+}
+a{
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+nav{
+  float: right;
+  margin-top: 5px;
+}
+h1{
+  padding: 10px;
+  text-indent: 20px;
+  font-style: normal;
+}
+section{
+  text-align: center;
+  padding: 200px;
+}
+button{
+  
+  border: 2px solid white;
+  margin: 5px;
+  padding: 10px 50px 10px 50px;
+  background: 0vw;
+ color: white;
+ border-radius: 10%;
+}
+button:hover{
+  background-color: #008CBA;
+}
+footer{
+  
+  font-size: x-small;
+  text-align: center;
+  padding: 150px;
+}
