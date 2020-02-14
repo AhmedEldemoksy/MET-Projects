@@ -1,0 +1,100 @@
+body{
+    background-image: url("pp.jpeg");
+
+}
+
+header
+{ 
+    background-color:#e8e8e8e1;
+font-size: 20px; 
+font-style: italic;
+text-align: center;
+margin: 10px;
+
+    padding: 5px;
+}
+
+
+
+h3
+{ 
+color: #ad6d48;
+font-size: 50px; 
+font-style: oblique;
+margin: 5px;
+padding: 5px;
+}
+summary 
+{ 
+    color: #4798e3;
+    font-size: 40px;
+}
+details
+{
+    margin: 10px;
+
+    padding: 5px;
+}
+details ol 
+{ 
+    padding: 5px;
+    color: #9fabe3;
+    font-size: 30px;
+    margin: 10px;
+}
+a
+{
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+    padding: 20px;
+    font-size: 30px;
+    color: #6c99f9;
+
+}
+h1{
+    margin: 10px;
+
+    
+    color: #4798e3;
+
+
+}
+p 
+{
+
+    margin: 10px;
+
+    padding: 5px;
+}
+mark 
+{
+    color: #1d10a5;
+    background-color:#fcfcb9;
+}
+footer
+{ 
+    background-color:#e8e8e8e1;
+font-size: 20px; 
+font-style: italic;
+text-align: center;
+margin-top: 200px;
+    padding: 5px;
+
+}
+input
+{ 
+    background-color:#fffbc0;
+    color: #1d10a5;
+    box-sizing: 40px;
+    
+}
+.thank{
+
+    margin-top: 200px;
+    
+}
+.par{
+    text-align: center;
+    margin-top: 300px;
+}
