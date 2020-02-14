@@ -1,0 +1,75 @@
+body{
+    font: 15px/1.5 Arial, Helvetica,sans-serif;
+    padding:0;
+    margin:0;
+    background-color:#f4f4f4;
+}
+.header2{
+    width: 100%;
+    background-image: url(../img/000.jfif);
+    height: 752.5px;
+
+}
+.ab{
+    border: ;
+    background-image: url(../img/88.jfif);
+    width: 400px;   
+    height: 420px;
+    margin-top: 360px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    border-radius: 10px;
+    
+}
+input{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #1ad314;
+    width: 300px; 
+    margin-top: ;
+    text-align: center;
+}
+.first1{
+    margin-bottom: 10px;
+    margin-left:  40px;
+    font-size: 18px;
+    margin-top: -40px;
+
+}
+.first2{
+    margin-bottom: 50px;
+    margin-left:  40px;
+    font-size: 18px;
+    margin-top: 20px;
+}
+input[type = "submit"]{
+    border:0;
+    background: none;
+    display: block;
+    margin: 20px auto;
+    margin-top: -25px;
+    text-align: center;
+    border: 2px solid #32e232;
+    padding: 14px 40px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+
+input[type = "submit"]:hover{
+    background: #2af523;
+}
+.g{
+    text-align: center;
+   color:#ffffff;
+   margin-top: 75px;
+   margin-left: 50%;
+   transform: translate(-50%,-50%);
+   position: relative; 
+   font-size: 35px;  
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
